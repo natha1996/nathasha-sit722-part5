@@ -1,11 +1,11 @@
 # Sets global variables for this Terraform project.
 
 variable app_name {
-  default = "s224169428"
+  default = "natha1week09"
 }
 
 variable container_registry {
-  default = "s224169428Kube"
+  default = "natha1week09"
 }
 
 variable location {
