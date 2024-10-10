@@ -15,5 +15,5 @@ terraform {
 provider "azurerm" {
   skip_provider_registrations = true
   features {}
+ alias = "secondary"
 }
-
