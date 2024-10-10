@@ -9,7 +9,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
 
-ENV DATABASE_URL = "postgresql://s224169428db_user:0ECup3QreyK0xcEy7ms6CYBflktTkyJC@dpg-crj80m2j1k6c73fk6ik0-a.oregon-postgres.render.com/s224169428db?sslmode=require"
+ENV DATABASE_URL = "postgresql://week09_2myt_user:tGJmJNOA1liJV7rE4uuqQ5gtu6QFKIWB@dpg-cs30t3pu0jms73920mh0-a.oregon-postgres.render.com/week09_2myt"
 
 EXPOSE 8000
 
