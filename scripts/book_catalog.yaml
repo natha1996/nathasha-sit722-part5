@@ -23,7 +23,7 @@ spec:
             - containerPort: 8000
           env:
             - name: DATABASE_URL
-              value: "postgresql://s224169428db_user:0ECup3QreyK0xcEy7ms6CYBflktTkyJC@dpg-crj80m2j1k6c73fk6ik0-a.oregon-postgres.render.com/s224169428db?sslmode=require"
+              value: "postgresql://week09_2myt_user:tGJmJNOA1liJV7rE4uuqQ5gtu6QFKIWB@dpg-cs30t3pu0jms73920mh0-a.oregon-postgres.render.com/week09_2myt"
 ---
 apiVersion: v1
 kind: Service
